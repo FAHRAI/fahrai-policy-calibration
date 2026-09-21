@@ -1,4 +1,4 @@
-"""Reproduce the recorded grading rule without an LLM judge."""
+"""Response validation and exact-answer scoring."""
 
 import json
 

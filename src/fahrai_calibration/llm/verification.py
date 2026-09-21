@@ -1,38 +1,14 @@
-"""Read and validate the published experiment bundle."""
-
-import csv
 import hashlib
 import json
 import math
 from collections import Counter
 from pathlib import Path
 
+import numpy as np
+
 from .grading import grade, parse_response
-from .tasks import INSTRUCTION, SCHEMA, canonical, generate, schedule
-
-
-def read_json(path):
-    return json.loads(Path(path).read_text(encoding="utf-8"))
-
-
-def read_csv(path):
-    with Path(path).open(newline="", encoding="utf-8") as handle:
-        return list(csv.DictReader(handle))
-
-
-def read_jsonl(path):
-    return [json.loads(line) for line in Path(path).read_text(encoding="utf-8").splitlines()]
-
-
-def write_csv(path, rows):
-    with Path(path).open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(rows[0]), lineterminator="\n")
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def digest(value):
-    return hashlib.sha256(canonical(value).encode()).hexdigest()
+from .io import digest, read_csv, read_json, read_jsonl
+from .tasks import INSTRUCTION, SCHEMA, generate, schedule
 
 
 def check_requests(requests, tasks, configs):
@@ -67,12 +43,11 @@ def check_requests(requests, tasks, configs):
             raise ValueError("Request content changed or exposes evaluation labels")
 
 
-def load_bundle(root, checksums=True):
+def load_bundle(root: Path):
     folder = root / "data/llm"
-    if checksums:
-        for name, expected in read_json(folder / "SHA256.json").items():
-            if hashlib.sha256((root / name).read_bytes()).hexdigest() != expected:
-                raise ValueError("Checksum mismatch: " + name)
+    for name, expected in read_json(folder / "SHA256.json").items():
+        if hashlib.sha256((root / name).read_bytes()).hexdigest() != expected:
+            raise ValueError("Checksum mismatch: " + name)
     configs = read_json(folder / "configurations.json")
     tasks = read_json(folder / "tasks.json")
     if generate(read_csv(root / "data/population.csv")) != tasks:
@@ -130,3 +105,33 @@ def load_bundle(root, checksums=True):
             ):
                 raise ValueError("API fee estimate differs")
     return configs, by_id, rows
+
+
+def verify_reference(output: Path, reference: Path) -> dict:
+    comparisons = 0
+    max_difference = 0.0
+    for name in (
+        "model_summary.csv",
+        "paired_accuracy.csv",
+        "policy_summary.csv",
+        "policy_comparisons_vs_raw.csv",
+        "failures.csv",
+    ):
+        actual, expected = read_csv(output / name), read_csv(reference / name)
+        if len(actual) != len(expected):
+            raise ValueError("Reference row count differs: " + name)
+        for first, second in zip(actual, expected, strict=True):
+            if first.keys() != second.keys():
+                raise ValueError("Reference columns differ: " + name)
+            for field in first:
+                if first[field] == second[field]:
+                    continue
+                try:
+                    a, b = float(first[field]), float(second[field])
+                except ValueError as error:
+                    raise ValueError(f"Reference differs: {name}:{field}") from error
+                if not np.isclose(a, b, rtol=1e-10, atol=1e-12):
+                    raise ValueError(f"Reference differs: {name}:{field}")
+                max_difference = max(max_difference, abs(a - b))
+            comparisons += 1
+    return {"reference_rows_compared": comparisons, "max_numeric_difference": max_difference}

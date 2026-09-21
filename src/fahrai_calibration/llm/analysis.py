@@ -5,7 +5,7 @@ from itertools import combinations
 
 import numpy as np
 
-from .evidence import read_csv, write_csv
+from .io import read_csv, write_csv
 
 METRICS = (
     "calls",

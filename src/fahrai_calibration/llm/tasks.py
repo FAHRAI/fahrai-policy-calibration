@@ -2,10 +2,11 @@
 
 import ast
 import itertools
-import json
 import operator
 import random
 from fractions import Fraction
+
+from .io import canonical
 
 SEED = 20260922
 FAMILIES = ("arithmetic", "state_trace", "ordered_rules", "constrained_choice")
@@ -50,10 +51,6 @@ SCHEMA = {
     },
     "required": ["final_answer", "explanation", "source_ids"],
 }
-
-
-def canonical(x):
-    return json.dumps(x, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
 
 
 def arithmetic(r, level):

@@ -1,12 +1,18 @@
+import io
+import json
+import tempfile
 import unittest
+from contextlib import redirect_stdout
 from pathlib import Path
 
 import numpy as np
 
 from fahrai_calibration.llm.analysis import budget_route, paired_accuracy, policy_metrics, summarize
-from fahrai_calibration.llm.evidence import load_bundle, read_csv
+from fahrai_calibration.llm.cli import main
 from fahrai_calibration.llm.grading import grade, parse_response
+from fahrai_calibration.llm.io import read_csv
 from fahrai_calibration.llm.tasks import generate
+from fahrai_calibration.llm.verification import load_bundle
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -15,6 +21,16 @@ class LLMTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.configs, cls.tasks, cls.rows = load_bundle(ROOT)
+
+    def test_cli_saves_the_report_it_prints(self):
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder) / "analysis"
+            console = io.StringIO()
+            with redirect_stdout(console):
+                main(["--root", str(ROOT), "analyze", "--output", str(output)])
+            saved = json.loads((output / "validation.json").read_text())
+            self.assertEqual(saved, json.loads(console.getvalue()))
+            self.assertIn("environment", saved)
 
     def test_all_recorded_outputs_are_regraded_without_missing_assignments(self):
         counts = {
