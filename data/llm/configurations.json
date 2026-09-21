@@ -1,0 +1,106 @@
+{
+  "baseline": {
+    "label": "GPT-4.1 mini",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "max_output_tokens": 600,
+    "workers": 1,
+    "automatic_retries": 0,
+    "input_usd_per_million": 0.4,
+    "output_usd_per_million": 1.6
+  },
+  "opus": {
+    "label": "Claude Opus 5",
+    "provider": "anthropic",
+    "model": "claude-opus-5",
+    "max_output_tokens": 16384,
+    "workers": 4,
+    "automatic_retries": 0,
+    "input_usd_per_million": 5.0,
+    "output_usd_per_million": 25.0
+  },
+  "pro": {
+    "label": "Gemini 3.1 Pro",
+    "provider": "gemini",
+    "model": "gemini-3.1-pro-preview",
+    "max_output_tokens": 16384,
+    "workers": 4,
+    "automatic_retries": 0,
+    "input_usd_per_million": 2.0,
+    "output_usd_per_million": 12.0
+  },
+  "astra": {
+    "label": "GPT-6 Astra",
+    "provider": "openai",
+    "model": "gpt-6-astra",
+    "max_output_tokens": 16384,
+    "workers": 4,
+    "automatic_retries": 0,
+    "input_usd_per_million": 10.0,
+    "output_usd_per_million": 50.0
+  },
+  "sonnet": {
+    "label": "Claude Sonnet 5",
+    "provider": "anthropic",
+    "model": "claude-sonnet-5",
+    "max_output_tokens": 16384,
+    "workers": 4,
+    "automatic_retries": 0,
+    "input_usd_per_million": 2,
+    "output_usd_per_million": 10
+  },
+  "lite": {
+    "label": "Gemini 3.5 Flash-Lite",
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "max_output_tokens": 16384,
+    "workers": 4,
+    "automatic_retries": 0,
+    "input_usd_per_million": 0.3,
+    "output_usd_per_million": 2.5
+  },
+  "luna": {
+    "label": "GPT-5.6 Luna",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "max_output_tokens": 16384,
+    "workers": 4,
+    "automatic_retries": 0,
+    "input_usd_per_million": 0.2,
+    "output_usd_per_million": 1.2
+  },
+  "qwen_local": {
+    "label": "Qwen 3.5 4B (Q4_K_M, local)",
+    "provider": "ollama",
+    "model": "qwen3.5:4b",
+    "max_output_tokens": 16384,
+    "workers": 1,
+    "automatic_retries": 0,
+    "runtime": {
+      "model": "qwen3.5:4b",
+      "model_digest": "2a654d98e6fba55d452b7043684e9b57a947e393bbffa62485a7aac05ee4eefd",
+      "runtime_version": "0.34.2",
+      "thinking": true,
+      "context_tokens": 24576,
+      "max_generated_tokens": 16384,
+      "workers": 1,
+      "timeout_seconds": 900,
+      "automatic_retries": 0,
+      "free_disk_stop_gib": 5,
+      "api_fee_usd": 0,
+      "total_compute_cost_usd": null,
+      "hardware": {
+        "chip": "Apple M1 Pro",
+        "memory_gib": 16,
+        "macos": "14.5"
+      },
+      "server": {
+        "bind": "127.0.0.1:11437",
+        "cloud_disabled": true,
+        "parallel_requests": 1,
+        "max_loaded_models": 1
+      }
+    },
+    "sampling_defaults": "top_p                          0.95\npresence_penalty               1.5\ntemperature                    1\ntop_k                          20"
+  }
+}

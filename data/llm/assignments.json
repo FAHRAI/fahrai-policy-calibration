@@ -1,0 +1,1802 @@
+[
+  {
+    "assignment_id": "dev-global-constrained_choice-L1:r1",
+    "phase": "development",
+    "task_id": "dev-global-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-ordered_rules-L3:r1",
+    "phase": "development",
+    "task_id": "dev-global-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-arithmetic-L3:r1",
+    "phase": "development",
+    "task_id": "dev-global-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-arithmetic-L1:r1",
+    "phase": "development",
+    "task_id": "dev-global-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-arithmetic-L2:r1",
+    "phase": "development",
+    "task_id": "dev-global-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-ordered_rules-L1:r1",
+    "phase": "development",
+    "task_id": "dev-global-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-ordered_rules-L2:r1",
+    "phase": "development",
+    "task_id": "dev-global-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-constrained_choice-L2:r1",
+    "phase": "development",
+    "task_id": "dev-global-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-constrained_choice-L3:r1",
+    "phase": "development",
+    "task_id": "dev-global-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-state_trace-L2:r1",
+    "phase": "development",
+    "task_id": "dev-global-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-state_trace-L1:r1",
+    "phase": "development",
+    "task_id": "dev-global-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "dev-global-state_trace-L3:r1",
+    "phase": "development",
+    "task_id": "dev-global-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c10-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c10-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c03-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c07-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c07-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c02-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c05-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c03-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c06-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c10-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c11-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c05-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c08-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c04-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c02-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c09-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c11-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c02-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c09-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c03-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c03-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c10-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c11-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c05-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c11-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c11-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c07-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c00-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c04-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c03-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c04-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c03-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c06-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c09-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c09-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c00-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c03-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c08-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c00-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c05-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c09-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c04-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c06-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c08-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c10-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c07-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c10-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c08-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c10-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c09-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c07-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c00-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c01-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c07-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c02-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c01-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c08-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c02-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c00-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c09-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c01-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c08-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c05-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c06-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c10-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c00-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c01-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c04-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c04-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c10-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c09-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c05-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c10-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c02-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c09-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c03-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c05-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c03-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c06-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c00-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c03-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c11-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c04-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c05-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c05-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c00-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c08-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c00-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c01-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c04-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c06-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c06-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c02-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c11-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c02-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c06-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c06-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c02-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c02-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c04-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c00-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c05-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c08-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c09-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c06-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c11-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c06-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c01-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c07-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c08-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-ordered_rules-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c01-ordered_rules-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c02-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c09-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c11-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c07-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c10-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c08-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c03-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c05-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c05-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c05-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c03-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c03-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c01-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c09-ordered_rules-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c09-ordered_rules-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c02-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c02-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c11-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c01-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c06-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c06-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c08-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c07-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c08-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c08-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c04-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-arithmetic-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c00-arithmetic-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c07-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-constrained_choice-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c07-constrained_choice-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c00-ordered_rules-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c00-ordered_rules-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c04-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c07-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c07-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-state_trace-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c01-state_trace-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-constrained_choice-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c01-constrained_choice-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c10-state_trace-L2:r1",
+    "phase": "main",
+    "task_id": "mai-c10-state_trace-L2",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c01-arithmetic-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c01-arithmetic-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-constrained_choice-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c11-constrained_choice-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-state_trace-L3:r1",
+    "phase": "main",
+    "task_id": "mai-c04-state_trace-L3",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c11-arithmetic-L1:r1",
+    "phase": "main",
+    "task_id": "mai-c11-arithmetic-L1",
+    "repeat": 1
+  },
+  {
+    "assignment_id": "mai-c04-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c04-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c07-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c02-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c01-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c10-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c07-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c03-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c00-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c10-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c05-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c02-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c03-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c05-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c02-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c10-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c04-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c01-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c11-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c08-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c05-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c03-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c03-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c05-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c08-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c10-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c06-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c01-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c02-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c04-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c09-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c03-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c11-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c00-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c04-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c01-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c09-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c10-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c01-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c08-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c02-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c06-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c11-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c00-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c10-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c09-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c04-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c09-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c07-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c01-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c02-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c09-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c09-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c09-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c07-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c10-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c06-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c01-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c07-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c02-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c06-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c07-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c06-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c07-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c11-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c04-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c09-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c07-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c04-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c11-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c00-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c09-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c10-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c11-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c00-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c11-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c10-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c04-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c09-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c01-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c08-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c04-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c07-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c05-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c00-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c07-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c06-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c08-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c11-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c05-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c02-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c08-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c06-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c07-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c05-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c10-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c01-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c03-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-state_trace-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c08-state_trace-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c03-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c02-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c06-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c09-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c03-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-arithmetic-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c00-arithmetic-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c05-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c08-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c10-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c05-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c01-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c05-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c02-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c00-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c03-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c11-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c00-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c11-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c02-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c07-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c07-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c06-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c00-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c03-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c03-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c05-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-state_trace-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c11-state_trace-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c06-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c11-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c11-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c09-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c09-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c00-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c01-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c05-arithmetic-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c05-arithmetic-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c02-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c02-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c06-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-arithmetic-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c08-arithmetic-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-constrained_choice-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c08-constrained_choice-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-constrained_choice-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c08-constrained_choice-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c04-ordered_rules-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c06-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c06-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c00-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c00-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c03-ordered_rules-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c03-ordered_rules-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c04-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c01-state_trace-L3:r2",
+    "phase": "main",
+    "task_id": "mai-c01-state_trace-L3",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c10-constrained_choice-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c10-constrained_choice-L2",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c04-ordered_rules-L1:r2",
+    "phase": "main",
+    "task_id": "mai-c04-ordered_rules-L1",
+    "repeat": 2
+  },
+  {
+    "assignment_id": "mai-c08-ordered_rules-L2:r2",
+    "phase": "main",
+    "task_id": "mai-c08-ordered_rules-L2",
+    "repeat": 2
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "mode": "saved_evidence_check",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8",
+  "system": "Linux",
+  "machine": "x86_64",
+  "checksum_files": 10,
+  "calibration_samples": 600,
+  "prediction_vectors": 3600,
+  "scalar_predictions": 43200,
+  "numerical_tolerance": {
+    "relative": 1e-08,
+    "absolute": 1e-10
+  },
+  "regenerated_numerical_outputs_exactly_equal": null,
+  "alternative_optimizer_max_difference": 1.694074786007249e-08,
+  "elapsed_seconds": 51.004
+}

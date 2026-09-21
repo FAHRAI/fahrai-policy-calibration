@@ -1,0 +1,27 @@
+{
+  "responses": 2304,
+  "configurations": 8,
+  "unique_main_tasks": 144,
+  "network_calls": 0,
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20260926,
+  "checks": {
+    "full_288": {
+      "negative_control_max_difference": 0.0,
+      "direct_replay_max_difference": 2.6290081223123707e-13
+    },
+    "first_repeat_144": {
+      "negative_control_max_difference": 0.0,
+      "direct_replay_max_difference": 1.8474111129762605e-13
+    }
+  },
+  "reference_rows_compared": 10951,
+  "max_numeric_difference": 0.0,
+  "status": "PASS",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "system": "Darwin",
+    "machine": "arm64"
+  }
+}

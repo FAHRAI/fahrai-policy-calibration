@@ -1,0 +1,26 @@
+{
+  "instruction": "Solve the supplied exercise and briefly explain the method in English (at most 100 words). No learner answer has been observed. Return final_answer as an integer, explanation as a nonempty string, and source_ids citing the supplied rule ID. Do not claim learning gains. For an optimization exercise, final_answer is the maximum achievable total value. Return only the specified JSON object.",
+  "schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "final_answer": {
+        "type": "integer"
+      },
+      "explanation": {
+        "type": "string"
+      },
+      "source_ids": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "final_answer",
+      "explanation",
+      "source_ids"
+    ]
+  }
+}
