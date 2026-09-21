@@ -1,0 +1,15 @@
+{
+  "data/llm/assignments.json": "299888a20c0934d3b57bd4597622b932eaa65f2ab04e88e71aacf6130a76e244",
+  "data/llm/configurations.json": "98ade3b645d4561e1c623bbc835067d48dd71676f6c29c798a108dd4f25a3011",
+  "data/llm/prompt.json": "c473ed5b8b0a05c8d42ba6901d7813ed44d528b0dcd69f93579cce3dbb0bac1f",
+  "data/llm/reference/failures.csv": "447c2e97efc80d6aa960bb72383731622bac47d3e18e37dc267291ca74e42e5c",
+  "data/llm/reference/model_summary.csv": "f1e33ab2f3ff7c81f9158bd9ea238fc5d0be5089d0e7f0ea4869058bdbc6e474",
+  "data/llm/reference/paired_accuracy.csv": "b2308a9a57d1c7095d27dc0a44081aa376cee8a868b657482f3dd3f248d58d86",
+  "data/llm/reference/policy_comparisons_vs_raw.csv": "9ec0a014185ca9c0c760d1d47fa54bac0d26fb871c355044e85d2eecbb07b617",
+  "data/llm/reference/policy_summary.csv": "a89ae653dbd18ce16b251202d0a562bdb32be891b023554747a4515561efdbbc",
+  "data/llm/requests.jsonl": "76c372b3fac60df165ede0842f8ec57f7a2d9311242abeaf1b93b2d57a96701b",
+  "data/llm/responses.jsonl": "d4762ca9ab2e65a6d82833d5a59cadeca6c4b411232214f5c9d362086d2a12f5",
+  "data/llm/tasks.json": "37d600343e45e43d20895d403ed65b4caf26c8753c2c3bdf8b1e3c99b9db1246",
+  "data/population.csv": "97322fdc17840d00260769cd404680c3dc7c9b61589328b9d2c9105f183a3d61",
+  "data/predictions.csv": "87dedd350da453220129e221ed86e5585710bcd19b3e9a4d3cb2846373f1ea04"
+}
